@@ -1,8 +1,8 @@
 {
   "name": "dailyhot",
-  "description": "今日热榜",
-  "author": "imsyy",
-  "github": "https://github.com/imsyy",
+  "description": "影子今日热榜平台",
+  "author": "yingzi",
+  "github": "https://github.com/yingzitt",
   "version": "0.2.1",
   "private": true,
   "scripts": {
