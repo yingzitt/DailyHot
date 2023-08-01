@@ -142,11 +142,11 @@ const themeOptions = ref([
 // 榜单跳转
 const linkOptions = [
   {
-    label: "当前页打开",
+    label: "新页面打开",
     value: "href",
   },
   {
-    label: "新页面打开",
+    label: "当前页打开",
     value: "open",
   },
 ];
