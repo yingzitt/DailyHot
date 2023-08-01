@@ -74,7 +74,6 @@ export const mainStore = defineStore("main", {
           order: 10,
           show: true,
         },
-
         {
           label: "知乎",
           value: "zhihu",
