@@ -20,15 +20,15 @@ export const mainStore = defineStore("main", {
           order: 1,
           show: true,
         },
-        {
-          label: "抖音",
-          value: "douyin",
+         {
+          label: "今日头条",
+          value: "toutiao",
           order: 2,
           show: true,
         },
         {
-          label: "知乎",
-          value: "zhihu",
+          label: "腾讯新闻",
+          value: "newsqq",
           order: 3,
           show: true,
         },
@@ -63,26 +63,27 @@ export const mainStore = defineStore("main", {
           show: true,
         },
         {
-          label: "今日头条",
-          value: "toutiao",
-          order: 9,
-          show: true,
-        },
-        {
           label: "百度贴吧",
           value: "tieba",
-          order: 10,
+          order: 9,
           show: true,
         },
         {
           label: "稀土掘金",
           value: "juejin",
+          order: 10,
+          show: true,
+        },
+
+        {
+          label: "知乎",
+          value: "zhihu",
           order: 11,
           show: true,
         },
         {
-          label: "腾讯新闻",
-          value: "newsqq",
+          label: "抖音",
+          value: "douyin",
           order: 12,
           show: true,
         },
