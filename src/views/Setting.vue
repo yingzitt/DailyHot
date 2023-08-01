@@ -143,11 +143,11 @@ const themeOptions = ref([
 const linkOptions = [
   {
     label: "新页面打开",
-    value: "href",
+    value: "open",
   },
   {
     label: "当前页打开",
-    value: "open",
+    value: "href",
   },
 ];
 
