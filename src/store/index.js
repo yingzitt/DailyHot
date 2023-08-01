@@ -88,7 +88,7 @@ export const mainStore = defineStore("main", {
         },
       ],
       // 链接跳转方式
-      linkOpenType: "open",
+      linkOpenType: "href",
       // 页头固定
       headerFixed: true,
       // 时间数据
